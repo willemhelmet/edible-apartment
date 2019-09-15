@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 6fa2dd05cfb7e0848ad3efbe6858d826
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Livvic
+  fontNames:
+  - Livvic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6b99cb31ef5b88849b8527b59a52bb29, type: 3}
+  - {fileID: 12800000, guid: 60a4275245a6c484f8539aea3f3ad7cb, type: 3}
+  - {fileID: 12800000, guid: 0310a91531d340549905b7ee96fe8f0c, type: 3}
+  - {fileID: 12800000, guid: 34ad802713df2024e9915d654e7973c7, type: 3}
+  - {fileID: 12800000, guid: 2b5e62a927a3dd444b4faf7884419597, type: 3}
+  - {fileID: 12800000, guid: 60e65e4bbee1cc44580797e10df0ab2d, type: 3}
+  - {fileID: 12800000, guid: 5f01819c45d394b4db5692662defd3a2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
